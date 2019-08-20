@@ -1,7 +1,7 @@
 ---
 title: My Second Post!
 date: "2015-08-06T18:15:37.121Z"
-description: "Because the First Post was called something else."
+description: "Because the First Post was called 'Hello World'."
 ---
 
 As I mentioned in the ([First Post](../hello-world/)), the internal debate
