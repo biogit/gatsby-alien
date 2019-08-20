@@ -4,6 +4,9 @@ module.exports = {
     author: `Alien CF`,
     description: `A blog about aliens.`,
     siteUrl: `https://alien.cf/`,
+    social: {
+      twitter: `null`,
+    },
   },
   plugins: [
     {
