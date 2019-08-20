@@ -13,8 +13,7 @@ class NotFoundPage extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="404: Not Found" />
         <h1>Not Found</h1>
-        ![Dead End Sign](https://alien.cf/static/dead-end.jpg)
-        <p>You just left the *Extraterrestrial Highway* for a route that doesn&#39;t exist.</p>
+        <p>You just left the *Alien Highway* for a route that doesn&#39;t exist.</p>
       </Layout>
     )
   }
