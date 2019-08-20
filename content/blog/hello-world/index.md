@@ -1,7 +1,7 @@
 ---
 title: Hello World
 date: "2015-08-01T16:12:03.284Z"
-description: "Hello World"
+description: "How many fingers truly count as an alien greeting?"
 ---
 
 This name for the first post is not only traditional, but also appropriate for the subject.
