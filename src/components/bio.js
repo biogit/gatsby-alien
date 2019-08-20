@@ -54,8 +54,7 @@ const Bio = () => {
         }}
       />
       <p>
-        <strong>{author}</strong> catalogs, compiles, and compares aliens.</br>
-          Because the truth is out there.
+        <strong>{author}</strong> catalogs, compiles, and compares aliens. Because the truth is out there.
       </p>
     </div>
   )
