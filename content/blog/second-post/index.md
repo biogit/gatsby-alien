@@ -11,6 +11,4 @@ So there was no *First Post*, but to keep with both of the traditional
 conventions for starting blogs, this is the *Second Post*.
 
 ![Sign with number 2](./second-post.jpg)
-
-##### Image Credit
 <small>Photo by [Sonny Ravesteijn](https://unsplash.com/@supersonnytje) from [Unsplash](https://unsplash.com/photos/xyxjKdpUg4I).<small>
