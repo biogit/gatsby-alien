@@ -38,6 +38,7 @@ class BlogIndex extends React.Component {
                     __html: node.frontmatter.description || node.excerpt,
                   }}
                 />
+                <img src={post.frontmatter.image.childImageSharp.responsiveSizes.base64} width="100%" data-src={post.frontmatter.image.childImageSharp.responsiveSizes.src} data-srcset={post.frontmatter.image.childImageSharp.responsiveSizes.srcSet} data-sizes={post.frontmatter.image.childImageSharp.responsiveSizes.sizes} className="lazyload" alt={post.frontmatter.title}/>
               </section>
             </article>
           )
@@ -67,6 +68,7 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             title
             description
+            image
           }
         }
       }
