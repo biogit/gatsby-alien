@@ -28,4 +28,4 @@ four or six fingers to be considered as strong evidence of being alien in nature
 
 ##### Image Credit
 
-Photo by [Tertia van Rensburg](https://unsplash.com/@tertia) from [Unsplash](https://unsplash.com/photos/QYs58HmCz-s).
+<small>Photo by [Tertia van Rensburg](https://unsplash.com/@tertia) from [Unsplash](https://unsplash.com/photos/QYs58HmCz-s).</small>
