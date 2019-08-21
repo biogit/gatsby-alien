@@ -2,7 +2,6 @@
 title: Hello World
 date: "2015-08-01T16:12:03.284Z"
 description: "How many fingers truly count as an alien greeting?"
-image: ./hello-world.jpg
 ---
 
 ## Why Hello World?
