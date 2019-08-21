@@ -2,6 +2,7 @@
 title: Hello World
 date: "2015-08-01T16:12:03.284Z"
 description: "How many fingers truly count as an alien greeting?"
+image: ./hello-world.jpg
 ---
 
 *Hello World* title for the first blog post is not only traditional, but also appropriate for the subject of the
