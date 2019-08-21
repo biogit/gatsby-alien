@@ -5,12 +5,12 @@ description: "How many fingers truly count as an alien greeting?"
 image: ./hello-world.jpg
 ---
 
-# Why Hello World?
+## Why Hello World?
 
 *Hello World* title for the first blog post is not only traditional, but also appropriate for the subject of the
 *Alien Cafe* blog. After all, greetings are one of the most popular cultural tropes related to aliens.
 
-## Greetings Humans!
+### Greetings Humans!
 
 The greeting below is rather spooky by intention. As the famous quote from the
 [Alien movie](https://en.wikipedia.org/wiki/Alien_(film)) goes:
@@ -19,7 +19,7 @@ The greeting below is rather spooky by intention. As the famous quote from the
 
 ![Alien Hello](./hello-world.jpg)
 
-### How Many Fingers?
+#### How Many Fingers?
 
 Unfortunately, the authoritative [grey alien](https://en.wikipedia.org/wiki/Grey_alien) entry on Wikipedia
 does not specify the **correct** number of fingers for any of the species mentioned therein. So human-like
