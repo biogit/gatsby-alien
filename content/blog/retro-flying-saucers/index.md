@@ -12,14 +12,14 @@ general sense in the 1950s of what future or sci-fi technology may look like.
 ### Scary in the Dark
 
 When approached in the dark, the alien technology would look appropriately
-scary. If not downright sinister, than at least unsettling.
+scary. If not downright sinister, then at least unsettling.
 
 ![Lights and smoke in the dark](./scary-light.jpg)
 
 ### Whimsical by Day
 
-But in th elight of the day, the details of the alien technology would seem positively
-(no pun intended) quiant, apparently using the same standard components as high-voltage
+But in the light of the day, the details of the alien technology would seem positively
+quiant, apparently using the same standard components as high-voltage
 transformers on Earth.
 
 ![Disc with high-voltage connectors.](./green-saucer.jpg)
