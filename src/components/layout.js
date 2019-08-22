@@ -63,9 +63,9 @@ class Layout extends React.Component {
         <header>{header}</header>
         <main>{children}</main>
         <footer>
-          <small>&copy; 2015&ndash;{new Date().getFullYear()} <a title="Homepage | Alien Cafe" href="https://alien.cf/">alien.cf</a></br>
-          Built with <a title="React-based site generator." href="https://www.gatsbyjs.org/">Gatsby</a> and <a title="Static site deployment." href="https://www.netlify.com/">Netlify</a>,</br>
-          domain from <a title="A Name for Everyone" href="https://www.freenom.com/">freenom</a>.</small>
+          <small>&copy; 2015&ndash;{new Date().getFullYear()} <a title="Homepage | Alien Cafe" href="https://alien.cf/">alien.cf</a>,
+          made with <a title="React-based site generator." href="https://www.gatsbyjs.org/">Gatsby</a> + <a title="Static site deployment." href="https://www.netlify.com/">Netlify</a>,
+          on <a title="A Name for Everyone" href="https://www.freenom.com/">freenom</a> domain.</small>
         </footer>
       </div>
     )
