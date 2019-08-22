@@ -14,13 +14,13 @@ spinning lights are traced in a dark room or against the night sky.
 
 A whirlwind of moving bright lights in a dark room. 
 
-[Circular light paths](./indoor-disks.jpg)
+![circular light paths](./indoor-disks.jpg)
 
 ### Taking Off in Gilroy Gardens, CA
 
 Started as a children's spinning swing ride, but the children have already disappeared! 
 
-[Circular light paths](./outdoor-disks.jpg)
+![spinning swing ride](./outdoor-disks.jpg)
 
 ##### Image Credits
 
