@@ -63,9 +63,11 @@ class Layout extends React.Component {
         <header>{header}</header>
         <main>{children}</main>
         <footer>
-          <small>&copy; 2015&ndash;{new Date().getFullYear()} alien.cf, built with
+          <small>&copy; 2015&ndash;{new Date().getFullYear()} <a title="Homepage | Alien Cafe" href="https://alien.cf/">alien.cf</a>,
           {` `}
-          <a href="https://www.gatsbyjs.org/">Gatsby</a>, deployed on <a href="https://www.netlify.com/">Netlify</a>.</small>
+          built with <a href="https://www.gatsbyjs.org/">Gatsby</a> and <a href="https://www.netlify.com/">Netlify</a>,
+          {` `}
+          domain from <a href="https://www.freenom.com/">freenom</a>.</small>
         </footer>
       </div>
     )
