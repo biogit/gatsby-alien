@@ -1,6 +1,6 @@
 ---
 title: Flying Disks of Light
-date: "2016-03-11T16:36:54.284Z"
+date: "2016-03-11"
 description: "Spinning lights in the dark: simple but effective."
 ---
 
@@ -24,5 +24,5 @@ Started as a children's spinning swing ride, but the children have already disap
 
 ##### Image Credits
 
-- <small>[Photo](https://unsplash.com/photos/Tij5HRslPBY) by [James Orr](https://unsplash.com/@orrbarone) from [Unsplash](https://unsplash.com/).</small>
-- <small>[Photo](https://unsplash.com/photos/W3UADWjdnVc) by [David Brooke Martin](https://unsplash.com/@dbmartin00) from [Unsplash](https://unsplash.com/).</small>
+- <small>[Disks of light](https://unsplash.com/photos/Tij5HRslPBY) photo by [James Orr](https://unsplash.com/@orrbarone).</small>
+- <small>[Spinning swing ride](https://unsplash.com/photos/W3UADWjdnVc) photo by [David Brooke Martin](https://unsplash.com/@dbmartin00).</small>
