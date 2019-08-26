@@ -1,6 +1,6 @@
 ---
 title: Flying Saucer
-date: "2015-10-03T14:15:03.284Z"
+date: "2015-10-03"
 description: "Beginnings of the modern alien terminology."
 ---
 
