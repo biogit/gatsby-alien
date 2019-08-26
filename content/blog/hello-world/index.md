@@ -1,6 +1,6 @@
 ---
 title: Hello World
-date: "2015-08-01T16:12:03.284Z"
+date: "2015-08-01"
 description: "How many fingers truly count as an alien greeting?"
 ---
 
