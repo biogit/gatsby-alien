@@ -1,6 +1,6 @@
 ---
 title: Saucers Out - UFOs In
-date: "2016-05-18T13:32:23.284Z"
+date: "2016-05-18"
 description: "From flying saucers to UFOs."
 ---
 
@@ -26,4 +26,4 @@ with impossibly sharp turns or "teleportation" jumps should be evident in photos
 
 ##### Image Credit
 
-<small>[Photo](https://unsplash.com/photos/h3VPJ_tLfq0) by [Shelton Media](https://unsplash.com/@sheltonmedia) from [Unsplash](https://unsplash.com/).</small>
+<small>[Moving lights](https://unsplash.com/photos/h3VPJ_tLfq0) photo by [Shelton Media](https://unsplash.com/@sheltonmedia).</small>
