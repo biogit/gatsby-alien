@@ -29,4 +29,4 @@ like a convincing flying saucer.
 
 ##### Image Credit
 
-<small>[Photo](https://unsplash.com/photos/DQO483rXhnM) by [Ambir Tolang](https://unsplash.com/@gorkhe1980) from [Unsplash](https://unsplash.com/).</small>
+<small>[Saucer cloud photo](https://unsplash.com/photos/DQO483rXhnM) by [Ambir Tolang](https://unsplash.com/@gorkhe1980).</small>
