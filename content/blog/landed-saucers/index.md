@@ -1,6 +1,6 @@
 ---
 title: The Saucers Have Landed
-date: "2015-12-08T10:57:25.284Z"
+date: "2015-12-08"
 description: "Flying saucers in modern architecture."
 ---
 
@@ -23,5 +23,5 @@ And this one has landed in Eindhoven and masquerades as the Evoluon building.
 
 ##### Image Credits
 
-- <small>[Photo](https://unsplash.com/photos/aBUeqDBD34c) by [Pierre Châtel-Innocenti](https://unsplash.com/@chatelp) from [Unsplash](https://unsplash.com/).</small>
-- <small>[Photo](https://unsplash.com/photos/sN8LGWF7A0I) by [Daniel](https://unsplash.com/@hardwaredani) from [Unsplash](https://unsplash.com/).</small>
+- <small>[Malmö Saucer](https://unsplash.com/photos/aBUeqDBD34c) photo by [Pierre Châtel-Innocenti](https://unsplash.com/@chatelp).</small>
+- <small>[Evoluon photo](https://unsplash.com/photos/sN8LGWF7A0I) by [Daniel](https://unsplash.com/@hardwaredani).</small>
