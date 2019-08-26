@@ -1,6 +1,6 @@
 ---
 title: Retro Flying Saucers
-date: "2015-11-21T21:45:20.284Z"
+date: "2015-11-21"
 description: "Mid-century modern depictions of flying saucers."
 ---
 
@@ -32,5 +32,5 @@ which was popular at the time for domestic objects and in the architecture.
 
 ##### Image Credits
 
-- <small>[Photo](https://unsplash.com/photos/IQWESbqLp5I) by [Filip Bunkens](https://unsplash.com/@thebeardbe) from [Unsplash](https://unsplash.com/).</small>
-- <small>[Photo](https://unsplash.com/photos/66PS1zcmfps) by [Jen Theodore](https://unsplash.com/@jentheodore) from [Unsplash](https://unsplash.com/).</small>
+- <small>[Lights and smoke](https://unsplash.com/photos/IQWESbqLp5I) photo by [Filip Bunkens](https://unsplash.com/@thebeardbe).</small>
+- <small>[Green saucer](https://unsplash.com/photos/66PS1zcmfps) photo by [Jen Theodore](https://unsplash.com/@jentheodore).</small>
