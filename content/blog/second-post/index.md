@@ -25,5 +25,5 @@ perhaps the *Second Post* can inspire a better universal greeting?
 
 ##### Image Credits
 
-- <small>[Photo](https://unsplash.com/photos/xyxjKdpUg4I) by [Sonny Ravesteijn](https://unsplash.com/@supersonnytje) from [Unsplash](https://unsplash.com/).</small>
-- <small>[Photo](https://unsplash.com/photos/tQagUWpAx5k) by [Priscilla Du Preez](https://unsplash.com/@priscilladupreez) from [Unsplash](https://unsplash.com/).</small>
+- <small>[Number 2 photo](https://unsplash.com/photos/xyxjKdpUg4I) by [Sonny Ravesteijn](https://unsplash.com/@supersonnytje).</small>
+- <small>[V-sign photo](https://unsplash.com/photos/tQagUWpAx5k) by [Priscilla Du Preez](https://unsplash.com/@priscilladupreez).</small>
