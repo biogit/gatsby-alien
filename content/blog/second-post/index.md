@@ -1,6 +1,6 @@
 ---
 title: Second Post
-date: "2015-09-06T18:18:37.121Z"
+date: "2015-09-06"
 description: "Because the First Post was called 'Hello World'."
 ---
 
