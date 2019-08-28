@@ -1,13 +1,14 @@
 ---
-title: Saucers Out - UFOs In
+title: Saucers Out--UFOs In
 date: "2016-05-18"
 description: "From flying saucers to UFOs."
 ---
 
 ## Unidentified Flying Objects
 
-In 1950s, the United States Air Force has introduced to the public a new term to replace *flying saucers*:
-unidentified flying objects (UFOs). This terminology is more general, as it does not explicitly require a
+In 1950s, the United States Air Force has introduced to the public a new term to replace the *flying saucer*:
+unidentified flying object ([UFO](https://en.wikipedia.org/wiki/Unidentified_flying_object)).
+This terminology is more general, as it does not explicitly require a
 particular shape of the object in question. Technically, does not imply that the object is alien either.
 
 ### Lights in the Sky
