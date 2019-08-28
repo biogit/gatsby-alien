@@ -1,5 +1,5 @@
 ---
-title: Saucers Out--UFOs In
+title: Saucers Out - UFOs In
 date: "2016-05-18"
 description: "From flying saucers to UFOs."
 ---
