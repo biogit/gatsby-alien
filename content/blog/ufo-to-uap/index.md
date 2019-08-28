@@ -17,10 +17,11 @@ New terminology to the rescue: unidentified aerial phenomena
 ([UAP](https://www.scientificamerican.com/article/ufos-uaps-and-craps/)). The exact terminology
 has not been settled yet, so **UAP** can be interpreted also as the more
 general "unidentified anomalous phenomena". But this is now the preferred terminology when
-serious people, from non-ironic government [programs](https://www.politico.com/magazine/story/2017/12/16/pentagon-ufo-search-harry-reid-216111),
-get involved. After all, someone has to keep the Earth secure from alien invasions.
+serious people, from non-ironic government [programs](https://www.politico.com/magazine/story/2017/12/16/pentagon-ufo-search-harry-reid-216111), get involved.
 
 ![fighter in tactical uniform](./security.jpg)
+
+After all, someone has to keep the Earth secure from alien invasions.
 
 ##### Image Credit
 
