@@ -18,11 +18,11 @@ spotting aliens, whether among the crowd of humans or when engaged in everyday a
 ![two aliens in a car](./aliens-car.jpg)
 
 Of course, helped by their extraterrestrial technology, aliens tend to evade being noticed. And if
-they are noticed, intentionally or accidentally, attempts to capture them in photos or even in memory usually fail.
+they are noticed, intentionally or accidentally, attempts to capture them in photos, or even in memory, usually fail.
 
 ## Exopolitics
 
-Some [contactees](../alien-abductions/), of course, report to be allowed by teh aliens
+Some [contactees](../alien-abductions/), of course, report to be allowed by the aliens
 to retain some memory (although usually not material evidence) of their repeated contacts. Typically,
 the motivation is described as the desire of the aliens to establish grass-roots
 [exopolitical](http://rationalwiki.org/wiki/Exopolitics) activities, effectively creating their
