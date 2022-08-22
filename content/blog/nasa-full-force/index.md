@@ -12,7 +12,7 @@ As reported on [space.com](https://www.space.com/nasa-ufo-study-progress-uap) an
 
 ### UAP Terminology in Action?
 
-The unidentified aerial phenomena (**UAP**) term was created as a more serious [substitute] for the previous **UFO** term. An official NASA panel dedicated to UAPs might be considered as an indication of a success of that strategy. Especially an investigation described by NASA as 'going full force'.
+The unidentified aerial phenomena (**UAP**) term was created as a more serious [substitute](../ufo-to-uap) for the previous **UFO** term. An official NASA panel dedicated to UAPs might be considered as an indication of a success of that strategy. Especially an investigation described by NASA as 'going full force'.
 
 ##### Image Credit
 
